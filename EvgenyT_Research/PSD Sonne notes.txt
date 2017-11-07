@@ -1,0 +1,50 @@
+Tasks:
+
+Have a look at existing portals
+	Courses differ, in lenght, size, form (video, text, interactive,pdfs etc)
+
+Run all platforms = WEB APP
+
+Offer people training material that is optional (added value) 
+	Portal must be extremly easy to use
+	Motivation to use
+	
+People in many countries
+	Communication
+
+IT skills are diferrent of user
+
+Multi local teams, virtual teams, - alot of people working at home all over the place
+	Meeting once a month, otherwise virtal meetings
+
+Classic German Company (origin)
+	English becoming more dominant
+	
+--------------------------------------------------------
+Filter: Cost
+	Popular top 20
+	Language
+	Cluster/Topics
+	Actuality/Duration - Very recent,how long
+		Certificate, or not - (By who? etc)
+	Follower - how many people are using this?, specifically Lufth employees
+		Feedback, Judgement via LHG User
+		Number of people within LHG
+	Leadership level (from jun to sen Manager)
+	Licence Policy for Enterpise Usage (Licence policy)
+
+IT Req :
+	Admin Tool for LH (make changes to the app after the fact)
+	Login Policy, Access the admin tool
+	Web App also for mobile devices
+	Internal Server 
+	Interface to our LMS (learning managment system) and new entry gate
+	MOOC portal as a library
+	Search enginge vie internet , LH intranet and tms escadia
+
+----------------------------------------------------------------------------------
+
+
+Edukatio - an example
+Webinars, virtual conference tools,
+Content providers search , not crawling the internet
